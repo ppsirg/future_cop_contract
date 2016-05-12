@@ -7,7 +7,7 @@
 this guide was made and tested only for ubuntu 16.04 LTS and ubuntu 14.04 LTS, it should
 work in most of debian-based os
 
-1. create a folder to save all you're going to download
+1- create a folder to save all you're going to download
 
 ```
 mkdir ethereum
@@ -19,7 +19,7 @@ cd ethereum
 mkvirtualenv -p /usr/bin/python2
 ```
 
-2. install dependencies
+2- install dependencies
 
 ```
 sudo apt-get install libssl-dev autoconf libtool libffi-dev libgmp-dev build-essential automake
@@ -32,7 +32,7 @@ make
 sudo make install
 ```
 
-3. clone pyethereum and install it
+3- clone pyethereum and install it
 
 ```
 cd ..
@@ -42,7 +42,7 @@ pip install -r requirements.txt
 pip install pytest
 ```
 
-4. install serpent
+4- install serpent
 
 ```
 cd ..
@@ -52,7 +52,7 @@ git checkout develop
 python setup.py install
 ```
 
-5. check if all is ok
+5- check if all is ok
 
 ```
 py.test -m test_contracts.py
