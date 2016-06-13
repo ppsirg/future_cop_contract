@@ -1,8 +1,8 @@
 #install pyethereum, the one that let us to communicate with blockchain
 
 
-[serpent: start site](https://mc2-umd.github.io/ethereumlab/)
-[serpent tutorial](https://mc2-umd.github.io/ethereumlab/docs/serpent_tutorial.pdf)
+- [serpent: start site](https://mc2-umd.github.io/ethereumlab/)
+- [serpent tutorial](https://mc2-umd.github.io/ethereumlab/docs/serpent_tutorial.pdf)
 
 this guide was made and tested only for ubuntu 16.04 LTS and ubuntu 14.04 LTS, it should
 work in most of debian-based os

@@ -27,5 +27,5 @@ available documentation is on ```/docs``` folder
 
 ##5. get involved
 
-fork it and share, please follow (PEP8)[https://www.python.org/dev/peps/pep-0008/], for further information
-contact us at (pedrorivera@emdyp.me)[mailto:pedrorivera@emdyp.me], or (oscaros73@gmail.com)[mailto:oscaros73@gmail.com]
+fork it and share, please follow [PEP8](https://www.python.org/dev/peps/pep-0008/), for further information
+contact us at [pedrorivera@emdyp.me](mailto:pedrorivera@emdyp.me), or [oscaros73@gmail.com](mailto:oscaros73@gmail.com)
